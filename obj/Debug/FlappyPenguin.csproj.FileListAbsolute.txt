@@ -1,0 +1,12 @@
+C:\Users\dicor\OneDrive\Escritorio\CURSOS DE OPENWEBINAR\Curso de C#\FlappyPenguin\bin\Debug\FlappyPenguin.exe.config
+C:\Users\dicor\OneDrive\Escritorio\CURSOS DE OPENWEBINAR\Curso de C#\FlappyPenguin\bin\Debug\FlappyPenguin.exe
+C:\Users\dicor\OneDrive\Escritorio\CURSOS DE OPENWEBINAR\Curso de C#\FlappyPenguin\bin\Debug\FlappyPenguin.pdb
+C:\Users\dicor\OneDrive\Escritorio\CURSOS DE OPENWEBINAR\Curso de C#\FlappyPenguin\obj\Debug\FlappyPenguin.csproj.AssemblyReference.cache
+C:\Users\dicor\OneDrive\Escritorio\CURSOS DE OPENWEBINAR\Curso de C#\FlappyPenguin\obj\Debug\FlappyPenguin.csproj.SuggestedBindingRedirects.cache
+C:\Users\dicor\OneDrive\Escritorio\CURSOS DE OPENWEBINAR\Curso de C#\FlappyPenguin\obj\Debug\FlappyPenguin.g.resources
+C:\Users\dicor\OneDrive\Escritorio\CURSOS DE OPENWEBINAR\Curso de C#\FlappyPenguin\obj\Debug\FlappyPenguin.Form1.resources
+C:\Users\dicor\OneDrive\Escritorio\CURSOS DE OPENWEBINAR\Curso de C#\FlappyPenguin\obj\Debug\FlappyPenguin.Properties.Resources.resources
+C:\Users\dicor\OneDrive\Escritorio\CURSOS DE OPENWEBINAR\Curso de C#\FlappyPenguin\obj\Debug\FlappyPenguin.csproj.GenerateResource.cache
+C:\Users\dicor\OneDrive\Escritorio\CURSOS DE OPENWEBINAR\Curso de C#\FlappyPenguin\obj\Debug\FlappyPenguin.csproj.CoreCompileInputs.cache
+C:\Users\dicor\OneDrive\Escritorio\CURSOS DE OPENWEBINAR\Curso de C#\FlappyPenguin\obj\Debug\FlappyPenguin.exe
+C:\Users\dicor\OneDrive\Escritorio\CURSOS DE OPENWEBINAR\Curso de C#\FlappyPenguin\obj\Debug\FlappyPenguin.pdb
